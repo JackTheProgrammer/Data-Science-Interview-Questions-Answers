@@ -167,7 +167,7 @@ Answer:
 
 In order to apply the central limit theorem, there are four conditions that must be met:
 
-1.** Randomization:** The data must be sampled randomly such that every member in a population has an equal probability of being selected to be in the sample.
+1. **Randomization:** The data must be sampled randomly such that every member in a population has an equal probability of being selected to be in the sample.
 
 2. **Independence:** The sample values must be independent of each other.
 
